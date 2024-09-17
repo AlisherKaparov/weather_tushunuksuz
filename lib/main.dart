@@ -15,6 +15,11 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+// 1 dio paketin chakyrdyk
+// 2 dio paketin ichine Weather chakyrdyk
+// 3 asic funsy tuzduk
+// 4 ui ga chygardyk
+// 5 funsya initState ke chakyrdyk
 
 class KursTapshyrma extends StatefulWidget {
   KursTapshyrma({super.key});
